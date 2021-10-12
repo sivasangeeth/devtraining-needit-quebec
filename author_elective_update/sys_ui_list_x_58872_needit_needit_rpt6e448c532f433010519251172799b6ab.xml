@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_58872_needit_needit" version="2" view="RPT6e448c532f433010519251172799b6ab">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-12 05:21:40</sys_created_on>
+            <sys_id>edd4c8932f433010519251172799b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-12 05:21:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>opened_at</element>
+            <list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-12 05:21:40</sys_created_on>
+            <sys_id>61d4c8932f433010519251172799b69d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-12 05:21:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-12 05:21:40</sys_created_on>
+            <sys_id>e1d4c8932f433010519251172799b69d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-12 05:21:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-12 05:21:40</sys_created_on>
+            <sys_id>65d4c8932f433010519251172799b69d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-12 05:21:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-12 05:21:40</sys_created_on>
+            <sys_id>e5d4c8932f433010519251172799b69d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-12 05:21:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assignment_group</element>
+            <list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-12 05:21:40</sys_created_on>
+            <sys_id>69d4c8932f433010519251172799b69d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-12 05:21:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-12 05:21:40</sys_created_on>
+            <sys_id>e9d4c8932f433010519251172799b69d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-12 05:21:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-12 05:21:40</sys_created_on>
+            <sys_id>6dd4c8932f433010519251172799b69d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-12 05:21:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-12 05:21:40</sys_created_on>
+            <sys_id>edd4c8932f433010519251172799b69d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-12 05:21:40</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_58872_needit_needit</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-10-12 05:21:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5d4c8932f433010519251172799b69c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_list_x_58872_needit_needit_RPT6e448c532f433010519251172799b6ab</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-10-12 05:21:40</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt6e448c532f433010519251172799b6ab" name="RPT6e448c532f433010519251172799b6ab">aa448c532f433010519251172799b6b0</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>87a8dd57db050094387021c4059619e7</instance_id>
+        <instance_name>dev94793</instance_name>
+        <name>sys_ui_list_x_58872_needit_needit_RPT6e448c532f433010519251172799b6ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_58872_needit_needit" version="2" view="RPT6e448c532f433010519251172799b6ab"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>number</element><list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-12 05:21:40</sys_created_on><sys_id>edd4c8932f433010519251172799b69c</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-12 05:21:40</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>opened_at</element><list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-12 05:21:40</sys_created_on><sys_id>61d4c8932f433010519251172799b69d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-12 05:21:40</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>short_description</element><list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-12 05:21:40</sys_created_on><sys_id>e1d4c8932f433010519251172799b69d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-12 05:21:40</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>priority</element><list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-12 05:21:40</sys_created_on><sys_id>65d4c8932f433010519251172799b69d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-12 05:21:40</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>state</element><list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-12 05:21:40</sys_created_on><sys_id>e5d4c8932f433010519251172799b69d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-12 05:21:40</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>assignment_group</element><list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-12 05:21:40</sys_created_on><sys_id>69d4c8932f433010519251172799b69d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-12 05:21:40</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>assigned_to</element><list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-12 05:21:40</sys_created_on><sys_id>e9d4c8932f433010519251172799b69d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-12 05:21:40</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_updated_on</element><list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id><max_value>false</max_value><min_value>false</min_value><position>7</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-12 05:21:40</sys_created_on><sys_id>6dd4c8932f433010519251172799b69d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-12 05:21:40</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>sys_updated_by</element><list_id display_value="x_58872_needit_needit" element="NULL" name="x_58872_needit_needit" parent="NULL" relationship="NULL" sys_domain="global" view="aa448c532f433010519251172799b6b0">a5d4c8932f433010519251172799b69c</list_id><max_value>false</max_value><min_value>false</min_value><position>8</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-12 05:21:40</sys_created_on><sys_id>edd4c8932f433010519251172799b69d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-12 05:21:40</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_58872_needit_needit</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-12 05:21:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a5d4c8932f433010519251172799b69c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_list_x_58872_needit_needit_RPT6e448c532f433010519251172799b6ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-12 05:21:40</sys_updated_on><sys_user/><view display_value="Rpt6e448c532f433010519251172799b6ab" name="RPT6e448c532f433010519251172799b6ab">aa448c532f433010519251172799b6b0</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-251895901</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>721ab4cf2f073010519251172799b628</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-12 05:21:40</sys_created_on>
+        <sys_id>edd44c932f433010519251172799b647</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c72f301dd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-12 05:21:40</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>29d44c933043301055e775f99cc97947</update_guid>
+        <update_guid_history>29d44c933043301055e775f99cc97947:-251895901,2e4484937c433010d5b14eac4536712f:-961979086</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-12 05:22:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>34d1282ef7234728a2291a463c88cef1</sys_id>
+        <sys_metadata>a5d4c8932f433010519251172799b69c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">a85938c52f433010519251172799b639</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_58872_needit_needit_RPT6e448c532f433010519251172799b6ab</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_58872_needit_needit_RPT6e448c532f433010519251172799b6ab">edd44c932f433010519251172799b647</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-12 05:22:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
